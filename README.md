@@ -369,7 +369,7 @@
 
   6. Run the <code>learn</code> command in your Terminal as many times as you
   need to get feedback.
-
+==
   <br>
 
   7. Once the tests are passing or even if you're just done for the day, submit
